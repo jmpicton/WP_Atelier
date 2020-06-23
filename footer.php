@@ -21,8 +21,17 @@ do_action( 'creativ_musician_action_before_footer' );
  */
 ?>
 <div id="monfooter">
-	<p><a href="https://ateliermusiquebarberaz.live-website.com/privacy-policy">Politique de confidentialité</a></p>
-	<p><a href="https://ateliermusiquebarberaz.live-website.com/privacy-policy">Règlement intérieur</a></p>
+	<div id="footer_g">
+		<p>© 2020 L'ATELIER, APPRENDRE & JOUER</p>
+		<p>Crédit photos L'ATELIER, APPRENDRE & JOUER</p>
+	</div>
+	<div id="footer_m">
+		<p><a href="https://ateliermusiquebarberaz.live-website.com/contact">Contactez-nous</a></p>
+	</div>
+	<div id"footer_d">
+		<p><a href="https://ateliermusiquebarberaz.live-website.com/privacy-policy">Politique de confidentialité</a></p>
+		<p><a href="https://ateliermusiquebarberaz.live-website.com/wp-content/uploads/2020/06/Reglement_Interieur.pdf">Règlement intérieur</a></p>
+	</div>
 </div>
 <?php
 /**
